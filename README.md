@@ -1,6 +1,6 @@
 # 🌟 Website Project - Complete Tutorial
 
-![Project Banner](https://i.ibb.co.com/WWWyx3jH/Screenshot-20250806-135443.png)
+<img src="https://i.ibb.co.com/WWWyx3jH/Screenshot-20250806-135443.png" alt="Project Banner" width="800" />
 
 ## 📋 Table of Contents
 - [English Section](#english-section)
@@ -21,10 +21,10 @@ The GitHub repository provides all the necessary assets including images, icons,
 1. **Visit the Repository**: Go to [https://github.com/Ashraful332/project-assets_1.git](https://github.com/Ashraful332/project-assets_1.git)
 
 2. **Click Code Button**: Look for the green "Code" button on the repository page
-   ![Code Button](https://i.ibb.co.com/WWWyx3jH/Screenshot-20250806-135443.png)
+   <img src="https://i.ibb.co.com/WWWyx3jH/Screenshot-20250806-135443.png" alt="Code Button Screenshot" width="600" />
 
 3. **Download ZIP**: Click on "Download ZIP" option from the dropdown menu
-   ![Download ZIP](https://i.ibb.co.com/GQK5WKYW/Screenshot-20250806-135353.png)
+   <img src="https://i.ibb.co.com/GQK5WKYW/Screenshot-20250806-135353.png" alt="Download ZIP Screenshot" width="600" />
 
 4. **Extract Files**: Once downloaded, extract the ZIP file to your desired location on your computer
 
@@ -96,10 +96,10 @@ GitHub রিপোজিটরিতে এই প্রজেক্ট তৈ�
 1. **রিপোজিটরি ভিজিট করুন**: [https://github.com/Ashraful332/project-assets_1.git](https://github.com/Ashraful332/project-assets_1.git) এ যান
 
 2. **Code বাটনে ক্লিক করুন**: রিপোজিটরি পেজে সবুজ "Code" বাটন খুঁজুন
-   ![Code Button](https://i.ibb.co.com/WWWyx3jH/Screenshot-20250806-135443.png)
+   <img src="https://i.ibb.co.com/WWWyx3jH/Screenshot-20250806-135443.png" alt="Code Button Screenshot" width="600" />
 
 3. **ZIP ডাউনলোড করুন**: ড্রপডাউন মেনু থেকে "Download ZIP" অপশনে ক্লিক করুন
-   ![Download ZIP](https://i.ibb.co.com/GQK5WKYW/Screenshot-20250806-135353.png)
+   <img src="https://i.ibb.co.com/GQK5WKYW/Screenshot-20250806-135353.png" alt="Download ZIP Screenshot" width="600" />
 
 4. **ফাইল এক্সট্র্যাক্ট করুন**: ডাউনলোড হওয়ার পর, ZIP ফাইলটি আপনার পছন্দের লোকেশনে এক্সট্র্যাক্ট করুন
 
